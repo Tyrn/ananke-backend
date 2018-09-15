@@ -1,5 +1,6 @@
 .idea
 *.pyc
+.ropeproject
 .eric6project
 *.e4p
 *.geany
